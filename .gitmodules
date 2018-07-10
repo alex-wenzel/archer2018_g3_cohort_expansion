@@ -1,0 +1,7 @@
+[submodule "array_nd"]
+	path = array_nd
+	url = https://github.com/KwatME/array_nd.git
+[submodule "scripts/array_nd"]
+	path = scripts/array_nd
+	url = https://github.com/KwatME/array_nd.git
+	branch = master
