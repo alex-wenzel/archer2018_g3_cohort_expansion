@@ -1,4 +1,4 @@
-# g3_cohort_expansion
+# G3 Cohort Expansion Analysis
 
 **Author**: Clarence Mah<br>
 **Email**: ckmah@ucsd.edu
